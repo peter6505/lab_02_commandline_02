@@ -135,7 +135,7 @@ pwd
 
 Write the command that you used to change to your home directory.  If you were already in your home directory, write the command that you *would* have used to change to it!
 ----------
-pwd
+.
 
 
 ==========
