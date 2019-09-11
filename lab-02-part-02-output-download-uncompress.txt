@@ -18,7 +18,7 @@ $ echo hello
 
 Copy and paste the output below.
 ----------
-
+hello
 
 
 ==========
@@ -28,7 +28,7 @@ $ echo hello there
 
 Copy and paste the output below.
 ----------
-
+hello there 
 
 
 ==========
@@ -38,7 +38,7 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
-
+>
 
 
 ==========
@@ -56,7 +56,7 @@ $ echo "good mornin'"
 
 Copy and paste the output below.
 ----------
-
+good mornin'
 
 
 ==========
@@ -66,7 +66,7 @@ $ echo *
 
 What happens?
 ----------
-
+It lists a lot of files that have documents and movies and movies.
 
 
 ==========
@@ -75,7 +75,7 @@ What happens?
 Write the command that you used below:
 ----------
 
-
+clear
 
 ==========
 We're going to practice downloading files from a web site.  We'll use this practice to download more lab materials!
@@ -87,6 +87,14 @@ $ curl google.com
 
 Copy and paste the output below.
 ----------
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+v120-ent-014:~ student$ 
+
 
 
 
@@ -97,7 +105,7 @@ $ curl www.google.com
 
 Copy and paste the output below, but not the whole thing!  Just copy up to the part that has the title tags (<title>......</title>).
 ----------
-
+<title>Google</title>
 
 
 ==========
